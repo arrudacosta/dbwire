@@ -1,0 +1,4405 @@
+{
+
+    "pastas": [
+        
+        {
+            "id": "PST_000000",
+            "nome": "Início",
+            "recipiente": "PST_999999",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000072", "data": 1527446160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000001",
+            "nome": "Aquiraz",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000010","TAG_000011","TAG_000003","TAG_000028","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000070", "data": 1552475700000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000002",
+            "nome": "Cascavel",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000030","TAG_000026","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000085", "data": 1577153400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000003",
+            "nome": "Caucaia",
+            "recipiente": "PST_000000",
+            "status": 0,
+            "fixado": 0,
+            "tag": ["TAG_000032","TAG_000017","TAG_000030","TAG_000002","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000011", "data": 1527446160000, "modificacao": 0, "historico": "Texto de histórico"
+        },{"usuario":"USE_000060", "data": 1632815160000,"modificacao":1,"historico":"POP Caucaia"}
+            ]
+        },
+        {
+            "id": "PST_000004",
+            "nome": "Chorozinho",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000032","TAG_000009","TAG_000002","TAG_000022","TAG_000025","TAG_000020"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000098", "data": 1577153400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000005",
+            "nome": "Eusébio",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000035", "data": 1632815160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000006",
+            "nome": "Fortaleza",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000024","TAG_000016","TAG_000012","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000025", "data": 1459639260000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000007",
+            "nome": "Guaiúba",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000019","TAG_000006","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000084", "data": 1577153400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000008",
+            "nome": "Horizonte",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000022","TAG_000016","TAG_000015","TAG_000020","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000017", "data": 1459639260000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000009",
+            "nome": "Itaitinga",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027","TAG_000026","TAG_000003","TAG_000028","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000054", "data": 1574297400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000010",
+            "nome": "Maracanaú",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000011","TAG_000002","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000081", "data": 1552475700000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000011",
+            "nome": "Maranguape",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000013","TAG_000025","TAG_000032","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000038", "data": 1459639260000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000012",
+            "nome": "Pacajus",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000014","TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000078", "data": 1552475700000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000013",
+            "nome": "Pacatuba",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000031","TAG_000009","TAG_000017","TAG_000030","TAG_000001","TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000071", "data": 1460889120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000014",
+            "nome": "Pindoretama",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000015","TAG_000030","TAG_000017","TAG_000008"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000060", "data": 1632815160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000015",
+            "nome": "São Gonçalo do Amarante",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000004","TAG_000012","TAG_000013","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000058", "data": 1552475700000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000016",
+            "nome": "São Luís do Curu",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030","TAG_000010","TAG_000014","TAG_000017","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000083", "data": 1632815160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000017",
+            "nome": "Paraipaba",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000026","TAG_000001","TAG_000002","TAG_000019","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000035", "data": 1616748060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000018",
+            "nome": "Paracuru",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000018","TAG_000003","TAG_000026","TAG_000008","TAG_000022","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000023", "data": 1574297400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000019",
+            "nome": "Trairi",
+            "recipiente": "PST_000000",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000003","TAG_000029","TAG_000006","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000016", "data": 1632815160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000020",
+            "nome": "Aerolândia",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000026","TAG_000002","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000067", "data": 1574297400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000021",
+            "nome": "Aeroporto",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000005","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000015", "data": 1664703000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000022",
+            "nome": "Aldeota",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000009","TAG_000031","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000001", "data": 1460889120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000023",
+            "nome": "Alto da Balança",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000015","TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000070", "data": 1574297400000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000024",
+            "nome": "Álvaro Weyne",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000031", "data": 1460889120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000025",
+            "nome": "Amadeu Furtado",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000006","TAG_000022","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1579037580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000026",
+            "nome": "Ancuri",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000097", "data": 1616748060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000027",
+            "nome": "Antônio Bezzerra",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000048", "data": 1460889120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000028",
+            "nome": "Aracapé",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000005","TAG_000026","TAG_000024"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000062", "data": 1616748060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000029",
+            "nome": "Autran Nunes",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000006"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000088", "data": 1588414020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000030",
+            "nome": "Barra do Ceará",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000043", "data": 1664703000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000031",
+            "nome": "Barroso",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000025", "data": 1616748060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000032",
+            "nome": "Bela Vista",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025","TAG_000012","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000079", "data": 1664703000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000033",
+            "nome": "Benfica",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000008","TAG_000019","TAG_000013","TAG_000025","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000034", "data": 1638748800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000034",
+            "nome": "Boa Vista",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000014","TAG_000003","TAG_000027","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000085", "data": 1579037580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000035",
+            "nome": "Bom Futuro",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000008","TAG_000020","TAG_000026","TAG_000006","TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000038", "data": 1664703000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000036",
+            "nome": "Bom Jardim",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000029","TAG_000032","TAG_000030","TAG_000018","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000009", "data": 1579037580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000037",
+            "nome": "Bonsucesso",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000028", "data": 1568133120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000038",
+            "nome": "Cais do Porto",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000008","TAG_000019","TAG_000015","TAG_000031"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1588414020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000039",
+            "nome": "Cajazeiras",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000009","TAG_000017","TAG_000029","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000073", "data": 1579037580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000040",
+            "nome": "Cambeba",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1588414020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000041",
+            "nome": "Cidade 2000",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000024","TAG_000001","TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000054", "data": 1479228120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000042",
+            "nome": "Cidade dos Funcionários",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000020","TAG_000001","TAG_000026","TAG_000015","TAG_000022","TAG_000024"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000079", "data": 1638748800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000043",
+            "nome": "Coaçu",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000063", "data": 1588414020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000044",
+            "nome": "Cocó",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000011","TAG_000009","TAG_000025","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000086", "data": 1638748800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000045",
+            "nome": "Conjunto Ceará I",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000007","TAG_000006","TAG_000014","TAG_000025","TAG_000032","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1583788380000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000046",
+            "nome": "Conjunto Ceará II",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000099", "data": 1568133120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000047",
+            "nome": "Conjunto Esperança",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000008","TAG_000021","TAG_000006","TAG_000024","TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000019", "data": 1638748800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000048",
+            "nome": "Conjunto Palmeiras",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000010","TAG_000013","TAG_000006"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000013", "data": 1568133120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000049",
+            "nome": "Couto Fernandes",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000041", "data": 1458351120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000050",
+            "nome": "Cristo Redentor",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000009","TAG_000032","TAG_000020"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000066", "data": 1479228120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000051",
+            "nome": "Dionísio Torres",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000007","TAG_000030","TAG_000020","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000062", "data": 1568133120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000052",
+            "nome": "Dom Lustosa",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000029", "data": 1479228120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000053",
+            "nome": "Edson Queiroz",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000012","TAG_000029","TAG_000011","TAG_000014","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000030", "data": 1497223140000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000054",
+            "nome": "Ellery",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000016","TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1583788380000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000055",
+            "nome": "Engenheiro Luciano Cavalcante",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000011","TAG_000001","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000049", "data": 1479228120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000056",
+            "nome": "Farias Brito",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000010","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000061", "data": 1583788380000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000057",
+            "nome": "Fátima",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000023","TAG_000009","TAG_000014","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000007", "data": 1641506220000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000058",
+            "nome": "Floresta",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000017", "data": 1458351120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000059",
+            "nome": "Genibaú",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000069", "data": 1583788380000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000060",
+            "nome": "Granja Lisboa",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000023","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000059", "data": 1458351120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000061",
+            "nome": "Granja Portugal",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000004","TAG_000020","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000073", "data": 1655689020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000062",
+            "nome": "Guajeru",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000023","TAG_000013","TAG_000018","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000076", "data": 1497223140000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000063",
+            "nome": "Guararapes",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000010", "data": 1458351120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000064",
+            "nome": "Henrique Jorge",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000031"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000081", "data": 1497223140000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000065",
+            "nome": "Itaoca",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000055", "data": 1602395820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000066",
+            "nome": "Itaperi",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000006","TAG_000022","TAG_000028","TAG_000003","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000002", "data": 1641506220000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000067",
+            "nome": "Jacarecanga",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000003","TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000046", "data": 1497223140000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000068",
+            "nome": "Jangurussu",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000026","TAG_000015","TAG_000001","TAG_000009","TAG_000003","TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000100", "data": 1641506220000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000069",
+            "nome": "Jardim América",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000064", "data": 1598660340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000070",
+            "nome": "Jardim Cearense",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000022","TAG_000003","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000064", "data": 1655689020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000071",
+            "nome": "Jardim das Oliveiras",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000018"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000019", "data": 1641506220000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000072",
+            "nome": "Jardim Iracema",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000032","TAG_000007","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000078", "data": 1655689020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000073",
+            "nome": "João XXIII",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000009","TAG_000016","TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1558549020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000074",
+            "nome": "Joaquim Távora",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000073", "data": 1602395820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000075",
+            "nome": "Jóquei Clube",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000003"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000009", "data": 1655689020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000076",
+            "nome": "José Bonifácio",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000043", "data": 1602395820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000077",
+            "nome": "José de Alencar",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000004","TAG_000012","TAG_000026","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000097", "data": 1471144200000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000078",
+            "nome": "José Walter",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000068", "data": 1598660340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000079",
+            "nome": "Lagoa Redonda",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000006", "data": 1602395820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000080",
+            "nome": "Manuel Dias Branco",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000012","TAG_000032","TAG_000008","TAG_000018"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000044", "data": 1598660340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000081",
+            "nome": "Maraponga",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000054", "data": 1569143520000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000082",
+            "nome": "Meireles",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000004","TAG_000017","TAG_000032","TAG_000014","TAG_000025","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000016", "data": 1558549020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000083",
+            "nome": "Messejana",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000028","TAG_000027","TAG_000016","TAG_000014","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000048", "data": 1598660340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000084",
+            "nome": "Mondubim",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027","TAG_000030","TAG_000003","TAG_000016","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000004", "data": 1558549020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000085",
+            "nome": "Monte Castelo",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000053", "data": 1531266840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000086",
+            "nome": "Montese",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000023","TAG_000010","TAG_000011","TAG_000003","TAG_000008","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000030", "data": 1471144200000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000087",
+            "nome": "Moura Brasil",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000016","TAG_000029","TAG_000023","TAG_000014","TAG_000031","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000088", "data": 1558549020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000088",
+            "nome": "Mucuripe",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017","TAG_000031","TAG_000014","TAG_000029","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000031", "data": 1471144200000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000089",
+            "nome": "Novo Mondubim",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000020","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000008", "data": 1524167460000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000090",
+            "nome": "Olavo Oliveira",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000012","TAG_000029","TAG_000021","TAG_000002","TAG_000027","TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000068", "data": 1569143520000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000091",
+            "nome": "Padre Andrade",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000068", "data": 1471144200000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000092",
+            "nome": "Panamericano",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000071", "data": 1569143520000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000093",
+            "nome": "Papicu",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000053", "data": 1684059000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000094",
+            "nome": "Parangaba",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000020","TAG_000010","TAG_000011","TAG_000018","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000097", "data": 1531266840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000095",
+            "nome": "Parque Araxá",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000055", "data": 1569143520000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000096",
+            "nome": "Parque Dois Irmãos",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000012","TAG_000008"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000093", "data": 1531266840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000097",
+            "nome": "Parque Iracema",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000015","TAG_000010","TAG_000016"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000026", "data": 1641751440000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000098",
+            "nome": "Parque Manibura",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030","TAG_000012","TAG_000015","TAG_000006"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000020", "data": 1524167460000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000099",
+            "nome": "Parque Santa Rosa",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000030","TAG_000018","TAG_000006","TAG_000017","TAG_000001","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000027", "data": 1531266840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000100",
+            "nome": "Parque São José",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000035", "data": 1524167460000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000101",
+            "nome": "Parquelândia",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000056", "data": 1672620840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000102",
+            "nome": "Parreão",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000008","TAG_000013","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000013", "data": 1684059000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000103",
+            "nome": "Passaré",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000016","TAG_000021","TAG_000003","TAG_000024","TAG_000028","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000098", "data": 1524167460000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000104",
+            "nome": "Paupina",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000011","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1684059000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000105",
+            "nome": "Pedras",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000006","TAG_000030","TAG_000020","TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000000", "data": 1610289120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000106",
+            "nome": "Pici",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000012","TAG_000022","TAG_000008","TAG_000021","TAG_000030","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000076", "data": 1641751440000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000107",
+            "nome": "Pirambu",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000040", "data": 1684059000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000108",
+            "nome": "Planalto Ayrton Senna",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000004","TAG_000008","TAG_000031"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000079", "data": 1641751440000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000109",
+            "nome": "Praia de Iracema",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027","TAG_000018","TAG_000028","TAG_000008","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000024", "data": 1505921040000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000110",
+            "nome": "Praia do Futuro I",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000020","TAG_000029","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000041", "data": 1672620840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000111",
+            "nome": "Praia do Futuro II",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000013","TAG_000015","TAG_000018","TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000011", "data": 1641751440000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000112",
+            "nome": "Presidente Kennedy",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000026","TAG_000027","TAG_000021","TAG_000025","TAG_000008","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000084", "data": 1672620840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000113",
+            "nome": "Presidente Vargas",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000050", "data": 1462443600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000114",
+            "nome": "Quintino Cunha",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000004","TAG_000006","TAG_000009","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000041", "data": 1610289120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000115",
+            "nome": "Rodolfo Teófilo",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000030","TAG_000010","TAG_000017","TAG_000020","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000057", "data": 1672620840000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000116",
+            "nome": "Sabiaguaba",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000028", "data": 1610289120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000117",
+            "nome": "Salinas",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000016","TAG_000004","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000005", "data": 1631109960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000118",
+            "nome": "Santa Maria",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000023","TAG_000027","TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000037", "data": 1505921040000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000119",
+            "nome": "São Bento",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000024"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000064", "data": 1610289120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000120",
+            "nome": "São Gerardo",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000050", "data": 1505921040000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000121",
+            "nome": "São João do Tauape",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030","TAG_000031","TAG_000032","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000066", "data": 1631984640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000122",
+            "nome": "Sapiranga / Coité",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000016","TAG_000012","TAG_000021","TAG_000008","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000041", "data": 1462443600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000123",
+            "nome": "Serrinha",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000018","TAG_000007","TAG_000031","TAG_000020","TAG_000030","TAG_000032"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000055", "data": 1505921040000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000124",
+            "nome": "Siqueira",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000018","TAG_000011","TAG_000014","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000014", "data": 1462443600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000125",
+            "nome": "Varjota",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000001","TAG_000016","TAG_000020"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000070", "data": 1685863800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000126",
+            "nome": "Vicente Pinzon",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000004","TAG_000013","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000077", "data": 1631109960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000127",
+            "nome": "Vila Manoel Sátiro",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000001","TAG_000029","TAG_000009","TAG_000005","TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000001", "data": 1462443600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000128",
+            "nome": "Vila Peri",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000006","TAG_000032","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000015", "data": 1631109960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000129",
+            "nome": "Vila União",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000014","TAG_000005","TAG_000009","TAG_000028","TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000050", "data": 1640634960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000130",
+            "nome": "Vila Velha",
+            "recipiente": "PST_000006",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000005","TAG_000011","TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000010", "data": 1631984640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000131",
+            "nome": "Acaracuzinho",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000022","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000005", "data": 1631109960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000132",
+            "nome": "Alto Alegre I",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000000", "data": 1631984640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000133",
+            "nome": "Alto Alegre II",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000013", "data": 1597692540000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000134",
+            "nome": "Alto da Mangueira",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000091", "data": 1685863800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000135",
+            "nome": "Antônio Justa",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000015","TAG_000011","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000036", "data": 1631984640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000136",
+            "nome": "Boa Esperança",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000030", "data": 1685863800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000137",
+            "nome": "Boa Vista",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000001","TAG_000027","TAG_000005","TAG_000002","TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000065", "data": 1526848860000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000138",
+            "nome": "Cágado",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027","TAG_000029","TAG_000021","TAG_000013","TAG_000011","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000095", "data": 1640634960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000139",
+            "nome": "Coqueiral",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000007","TAG_000008","TAG_000031","TAG_000019","TAG_000003"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000081", "data": 1685863800000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000140",
+            "nome": "Centro",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000032","TAG_000018","TAG_000023"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000061", "data": 1640634960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000141",
+            "nome": "Cidade Nova",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000007","TAG_000031","TAG_000019","TAG_000021","TAG_000020","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1631742360000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000142",
+            "nome": "Distrito Industrial I",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000014","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000060", "data": 1597692540000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000143",
+            "nome": "Furna da Onça",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000003","TAG_000005","TAG_000008","TAG_000010","TAG_000015","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1640634960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000144",
+            "nome": "Horto",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000027","TAG_000023","TAG_000014","TAG_000009","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000088", "data": 1597692540000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000145",
+            "nome": "Industrial",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000097", "data": 1584393060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000146",
+            "nome": "Jaçanaú",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000032","TAG_000016"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000060", "data": 1526848860000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000147",
+            "nome": "Jardim Bandeirantes",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000004","TAG_000019","TAG_000020","TAG_000014","TAG_000016"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000037", "data": 1597692540000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000148",
+            "nome": "Jardim das Maravilhas",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000011","TAG_000018","TAG_000003"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000029", "data": 1526848860000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000149",
+            "nome": "Jari",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000020","TAG_000013","TAG_000032","TAG_000025","TAG_000027","TAG_000023"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000057", "data": 1491408480000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000150",
+            "nome": "Jenipapeiro",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000032","TAG_000028","TAG_000006","TAG_000003"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000086", "data": 1631742360000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000151",
+            "nome": "Jereissati",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1526848860000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000152",
+            "nome": "Jatobá",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000058", "data": 1631742360000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000153",
+            "nome": "Luzardo Viana",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000023","TAG_000018","TAG_000014","TAG_000002","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000018", "data": 1571230620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000154",
+            "nome": "Menino Jesus de Praga",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000021","TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000002", "data": 1584393060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000155",
+            "nome": "Mucunã",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000026"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000079", "data": 1631742360000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000156",
+            "nome": "Novo Jenipapeiro",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025","TAG_000014","TAG_000002","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000035", "data": 1584393060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000157",
+            "nome": "Novo Maracanaú",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000027", "data": 1535911980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000158",
+            "nome": "Novo Oriente",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000010","TAG_000032","TAG_000020","TAG_000003"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000020", "data": 1491408480000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000159",
+            "nome": "Olho DÁgua",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1584393060000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000160",
+            "nome": "Pajuçara",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000093", "data": 1491408480000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000161",
+            "nome": "Pajuçara Park",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000002","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000087", "data": 1696893960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000162",
+            "nome": "Pau-Serrado",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000021","TAG_000015","TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000094", "data": 1571230620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000163",
+            "nome": "Parque Tijuca",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000082", "data": 1491408480000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000164",
+            "nome": "Parque Tropical",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000011","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000027", "data": 1571230620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000165",
+            "nome": "Parque Santa Maria",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000028", "data": 1456561620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000166",
+            "nome": "Piratininga",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1535911980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000167",
+            "nome": "Santo Antônio",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000029","TAG_000004","TAG_000014","TAG_000001","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000062", "data": 1571230620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000168",
+            "nome": "Santo Sátiro",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1535911980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000169",
+            "nome": "Timbó",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017","TAG_000027","TAG_000021","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000024", "data": 1613032080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000170",
+            "nome": "Vila Buriti",
+            "recipiente": "PST_000010",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000015", "data": 1696893960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000171",
+            "nome": "Alto da Tabuba",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000017","TAG_000022","TAG_000027","TAG_000019","TAG_000026","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000051", "data": 1535911980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000172",
+            "nome": "Alto do Garrote",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000013","TAG_000010","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000007", "data": 1696893960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000173",
+            "nome": "Araturi",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017","TAG_000032","TAG_000003","TAG_000001","TAG_000021","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000055", "data": 1462249020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000174",
+            "nome": "Arianopolis",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000005","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000098", "data": 1456561620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000175",
+            "nome": "Bom Jesus",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000001","TAG_000012","TAG_000009","TAG_000003","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000037", "data": 1696893960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000176",
+            "nome": "Bom Principio",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000089", "data": 1456561620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000177",
+            "nome": "Brasilia",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000063", "data": 1542095580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000178",
+            "nome": "Cabatan",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025","TAG_000006","TAG_000026","TAG_000023","TAG_000011","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000066", "data": 1613032080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000179",
+            "nome": "Cachoeira dos Paulinos",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000031"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000017", "data": 1456561620000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000180",
+            "nome": "Camara",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000032","TAG_000002","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000067", "data": 1613032080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000181",
+            "nome": "Camurupim",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000072", "data": 1583219340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000182",
+            "nome": "Capine",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000031","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000047", "data": 1462249020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000183",
+            "nome": "Capuan",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1613032080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000184",
+            "nome": "Carauçanga",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000016"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000082", "data": 1462249020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000185",
+            "nome": "Carrapicho",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000032","TAG_000024","TAG_000019","TAG_000008"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000045", "data": 1542966720000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000186",
+            "nome": "Catarina",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000022","TAG_000002","TAG_000024","TAG_000008","TAG_000006"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1542095580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000187",
+            "nome": "Catuana",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000008","TAG_000009","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000022", "data": 1462249020000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000188",
+            "nome": "Cauipe",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000023"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000083", "data": 1542095580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000189",
+            "nome": "Centro",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000013","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000032", "data": 1554865920000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000190",
+            "nome": "Cigana",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000028","TAG_000017","TAG_000014","TAG_000025","TAG_000032"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000088", "data": 1583219340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000191",
+            "nome": "Cipo",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000067", "data": 1542095580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000192",
+            "nome": "Coite Pedreira",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000018","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000007", "data": 1583219340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000193",
+            "nome": "Coité/matões",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000008","TAG_000003","TAG_000001","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000021", "data": 1556504640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000194",
+            "nome": "Conj Nova Metropole",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000024", "data": 1542966720000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000195",
+            "nome": "Conj. Metropolitano",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017","TAG_000024","TAG_000030","TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000023", "data": 1583219340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000196",
+            "nome": "Conj. São Miguel",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000001","TAG_000012","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000098", "data": 1542966720000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000197",
+            "nome": "Conjunto Araturí",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000016","TAG_000007","TAG_000021","TAG_000005","TAG_000029","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000082", "data": 1567562340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000198",
+            "nome": "Conjunto Metropolitano",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000027","TAG_000004","TAG_000018","TAG_000005","TAG_000011","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000042", "data": 1554865920000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000199",
+            "nome": "Corrego d Alexandre",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000013","TAG_000008","TAG_000026","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000070", "data": 1542966720000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000200",
+            "nome": "Cumbuco",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000031","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000068", "data": 1554865920000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000201",
+            "nome": "Curicaca",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000091", "data": 1615076760000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000202",
+            "nome": "Cutia",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000020","TAG_000003","TAG_000028","TAG_000006","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000025", "data": 1556504640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000203",
+            "nome": "Garrote",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000031","TAG_000016","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000027", "data": 1554865920000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000204",
+            "nome": "Genipabu",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000030","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000020", "data": 1556504640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000205",
+            "nome": "Grilo",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000005","TAG_000014","TAG_000022","TAG_000018"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000054", "data": 1589753640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000206",
+            "nome": "Guadalajara",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000034", "data": 1567562340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000207",
+            "nome": "Guadalajara II",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000032","TAG_000020","TAG_000007","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000025", "data": 1556504640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000208",
+            "nome": "Guagiru",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000003","TAG_000019","TAG_000016","TAG_000030","TAG_000024"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000045", "data": 1567562340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000209",
+            "nome": "Guararu",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000023","TAG_000015","TAG_000007","TAG_000026","TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000052", "data": 1699977120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000210",
+            "nome": "Icarai",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000011","TAG_000031","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1615076760000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000211",
+            "nome": "Iparana",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000049", "data": 1567562340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000212",
+            "nome": "Ipu",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017","TAG_000031","TAG_000021","TAG_000003","TAG_000008","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000006", "data": 1615076760000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000213",
+            "nome": "Itambe",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000087", "data": 1615371000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000214",
+            "nome": "Itambe II",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000029","TAG_000005","TAG_000025","TAG_000006","TAG_000013","TAG_000008"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000090", "data": 1589753640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000215",
+            "nome": "Itapara",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000018","TAG_000026","TAG_000004","TAG_000003","TAG_000028","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000059", "data": 1615076760000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000216",
+            "nome": "Jandaiguaba",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000026","TAG_000016"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000024", "data": 1589753640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000217",
+            "nome": "Jarandragoeira",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000021","TAG_000004","TAG_000010","TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000082", "data": 1610481900000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000218",
+            "nome": "Jardim do Amor",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000018","TAG_000002","TAG_000014","TAG_000008","TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000051", "data": 1699977120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000219",
+            "nome": "Jurema",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000026", "data": 1589753640000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000220",
+            "nome": "Lagoa do Banana",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000004", "data": 1699977120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000221",
+            "nome": "Lagoa Nova",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000020","TAG_000006","TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000038", "data": 1601030820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000222",
+            "nome": "Lagoa Tapeba II",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000020","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000031", "data": 1615371000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000223",
+            "nome": "Lameirão",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000023","TAG_000027","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000059", "data": 1699977120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000224",
+            "nome": "Malhada",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000003","TAG_000024","TAG_000004","TAG_000008","TAG_000005","TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000088", "data": 1615371000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000225",
+            "nome": "Matoes",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000029","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000064", "data": 1563282600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000226",
+            "nome": "Matões",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000031","TAG_000002","TAG_000006","TAG_000011"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000097", "data": 1610481900000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000227",
+            "nome": "Mestre Antônio",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000056", "data": 1615371000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000228",
+            "nome": "Minguau",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000079", "data": 1610481900000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000229",
+            "nome": "Mirambe",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000005"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000089", "data": 1454511000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000230",
+            "nome": "Nova Metrópole",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000010"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000064", "data": 1601030820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000231",
+            "nome": "Novo Pabussu",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000019", "data": 1610481900000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000232",
+            "nome": "Novo São Miguel",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000027","TAG_000007","TAG_000016","TAG_000025","TAG_000031"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000032", "data": 1601030820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000233",
+            "nome": "Potira II",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000004","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000008", "data": 1508340300000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000234",
+            "nome": "Pacheco",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000021","TAG_000018"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000048", "data": 1563282600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000235",
+            "nome": "Padre Julio Maria",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000019","TAG_000012","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000027", "data": 1601030820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000236",
+            "nome": "Parque Albano",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000010","TAG_000008","TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000050", "data": 1563282600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000237",
+            "nome": "Parque Araturi",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000030", "data": 1608031560000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000238",
+            "nome": "Parque das Nações",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000028","TAG_000024","TAG_000029","TAG_000020","TAG_000026","TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000065", "data": 1454511000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000239",
+            "nome": "Parque Guadalajara",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000095", "data": 1563282600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000240",
+            "nome": "Parque Itapoa",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000022","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000017", "data": 1454511000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000241",
+            "nome": "Parque Leblon",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000004","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000057", "data": 1616330280000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000242",
+            "nome": "Parque Marlouber",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025","TAG_000032","TAG_000022"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000092", "data": 1508340300000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000243",
+            "nome": "Parque Potira",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000069", "data": 1454511000000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000244",
+            "nome": "Parque Soledade",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000015","TAG_000006","TAG_000025","TAG_000001"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000003", "data": 1508340300000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000245",
+            "nome": "Parque Tabapua",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000024","TAG_000026","TAG_000029"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000004", "data": 1639664160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000246",
+            "nome": "Pe Julio Maira",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000018", "data": 1608031560000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000247",
+            "nome": "Picui",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000023","TAG_000006","TAG_000032","TAG_000018","TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000044", "data": 1508340300000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000248",
+            "nome": "Pinhoes",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027","TAG_000010","TAG_000032","TAG_000018","TAG_000020"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000062", "data": 1608031560000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000249",
+            "nome": "Pirapora",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000059", "data": 1596719580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000250",
+            "nome": "Pitombeiras",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000027", "data": 1616330280000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000251",
+            "nome": "Plan Caucaia",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000010","TAG_000001","TAG_000009","TAG_000011","TAG_000006"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000037", "data": 1608031560000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000252",
+            "nome": "Planalto Caucaia",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000018","TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000071", "data": 1616330280000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000253",
+            "nome": "Planalto Cauipe",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000035", "data": 1517566680000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000254",
+            "nome": "Planalto Icarai",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000070", "data": 1639664160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000255",
+            "nome": "Poço Verde",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000026","TAG_000018","TAG_000020","TAG_000015","TAG_000028"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000051", "data": 1616330280000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000256",
+            "nome": "Potira",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000006","TAG_000027","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000052", "data": 1639664160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000257",
+            "nome": "Pq Guadalajara",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000065", "data": 1582323600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000258",
+            "nome": "Pq Soledade",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000016","TAG_000003"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1596719580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000259",
+            "nome": "Pq Tabapua",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000024","TAG_000020","TAG_000025","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000002", "data": 1639664160000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000260",
+            "nome": "Primavera",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000024"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000071", "data": 1596719580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000261",
+            "nome": "Riachao",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000032","TAG_000007"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000050", "data": 1550780820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000262",
+            "nome": "São Miguel",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000002","TAG_000021","TAG_000012"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000083", "data": 1517566680000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000263",
+            "nome": "São Pedro",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000050", "data": 1596719580000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000264",
+            "nome": "Sitios Novos",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000015","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000014", "data": 1517566680000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000265",
+            "nome": "Soledade",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017","TAG_000018","TAG_000021","TAG_000016"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000059", "data": 1681951080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000266",
+            "nome": "Sta Rosa",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000011", "data": 1582323600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000267",
+            "nome": "Tabapua",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000021","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000019", "data": 1517566680000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000268",
+            "nome": "Tabapuazinho",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000002","TAG_000032","TAG_000018"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000074", "data": 1582323600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000269",
+            "nome": "Tabuba",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000025","TAG_000003","TAG_000020","TAG_000019","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000020", "data": 1519630980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000270",
+            "nome": "Tabuleiro Grande",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000027","TAG_000006","TAG_000008"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000029", "data": 1550780820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000271",
+            "nome": "Taquara",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000016","TAG_000021","TAG_000031"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000098", "data": 1582323600000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000272",
+            "nome": "Toco",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000005","TAG_000026","TAG_000015","TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000070", "data": 1550780820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000273",
+            "nome": "Tucunduba",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000011","TAG_000016","TAG_000015"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000048", "data": 1508426340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000274",
+            "nome": "Urucutuba",
+            "recipiente": "PST_000003",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000009","TAG_000030"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000017", "data": 1681951080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000275",
+            "nome": "Alphaville Eusébio",
+            "recipiente": "PST_000005",
+            "status": 1,
+            "fixado": 1,
+            "tag": [],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 2, 
+            "modificacoes": [
+                {"usuario":"USE_000097", "data": 1550780820000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000276",
+            "nome": "Postes",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000030","TAG_000027","TAG_000016","TAG_000013"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000023", "data": 1681951080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000277",
+            "nome": "Cabos",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000021"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000025", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000278",
+            "nome": "Caixas",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000007","TAG_000004","TAG_000024"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000035", "data": 1519630980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000279",
+            "nome": "Estações",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000014","TAG_000022","TAG_000016","TAG_000029","TAG_000027"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000062", "data": 1681951080000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000280",
+            "nome": "Ferragens",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000025","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000086", "data": 1519630980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000281",
+            "nome": "Equipamentos",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000006","TAG_000010","TAG_000017","TAG_000029","TAG_000019"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000068", "data": 1529791140000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000282",
+            "nome": "Limites",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000007","TAG_000014"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000002", "data": 1508426340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000283",
+            "nome": "Reservas técnicas",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000017"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1519630980000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000284",
+            "nome": "Caixas de passagem",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000019","TAG_000007","TAG_000027","TAG_000009"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000022", "data": 1508426340000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000285",
+            "nome": "Tubulações",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 0,
+            "tag": ["TAG_000002","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000047", "data": 1452222120000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000286",
+            "nome": "Atendimentos",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000032","TAG_000024","TAG_000009","TAG_000004","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000287",
+            "nome": "Imagens",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000032","TAG_000024","TAG_000009","TAG_000004","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000288",
+            "nome": "Vídeos",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000032","TAG_000024","TAG_000009","TAG_000004","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000289",
+            "nome": "Áudios",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000032","TAG_000024","TAG_000009","TAG_000004","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000290",
+            "nome": "Arquivos",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000032","TAG_000024","TAG_000009","TAG_000004","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000291",
+            "nome": "Arquivos desconhecidos",
+            "recipiente": "PST_000275",
+            "status": 1,
+            "fixado": 1,
+            "tag": ["TAG_000019","TAG_000032","TAG_000024","TAG_000009","TAG_000004","TAG_000002"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000080", "data": 1539816960000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        },
+        {
+            "id": "PST_000292",
+            "nome": "Teste de elemento apagado",
+            "recipiente": "PST_000000",
+            "status": 0,
+            "fixado": 0,
+            "tag": ["TAG_000021","TAG_000004"],
+            "cor": "#daa520",
+            "observ": "", 
+            "tipo_item": 0, 
+            "sub_tipo_item": 0, 
+            "modificacoes": [
+                {"usuario":"USE_000019", "data": 1517566680000, "modificacao": 0, "historico": "Texto de histórico"}
+            ]
+        }
+
+    ]
+    
+}
+
